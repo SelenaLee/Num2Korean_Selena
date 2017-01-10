@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="practice_0109.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:practice_0109"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Width="604.443" Height="724">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="33,0,0,0" VerticalAlignment="Center">
+        <TextBox x:Name="inputNumber" HorizontalAlignment="Left" Margin="30,600,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370" Height="60" FontSize="20" Padding="10,12,10,5"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="420,600,0,0" VerticalAlignment="Top" Height="60" Width="130" Click="button_Click"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="35,681,24,25" TextWrapping="Wrap" Text="Please enter only number." Width="500" Height="20" FontSize="16"/>
+        <TextBlock x:Name="printNum" HorizontalAlignment="Center" Margin="0,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="188" Width="394" FontSize="30" Text="" Padding="0,80,0,0" TextAlignment="Center"/>
+
+
+
+    </Grid>
+</Page>

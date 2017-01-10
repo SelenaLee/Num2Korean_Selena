@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LEESH053</Machine>
+    <WindowsUser>이서현</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>78e086d9-3257-4bcd-a788-164db8d7e9a7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=이서현</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>F1A2E5FBCF703A5B967EB71A8B412D053327D6ED6DEBAACCE24DBE48DCC6B25D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>78e086d9-3257-4bcd-a788-164db8d7e9a7_1.0.0.0_neutral__c3hnw54da12tm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>78e086d9-3257-4bcd-a788-164db8d7e9a7_c3hnw54da12tm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>78e086d9-3257-4bcd-a788-164db8d7e9a7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=이서현</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-10T04:37:56.075</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\bin\Debug\practice_0109.Windows.exe">
+      <PackagePath>practice_0109.Windows.exe</PackagePath>
+      <Modified>2017-01-10T06:26:59.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\bin\Debug\practice_0109.Windows.xr.xml">
+      <PackagePath>practice_0109.Windows.xr.xml</PackagePath>
+      <Modified>2017-01-10T01:02:22.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-01-09T11:56:09.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-01-10T01:02:22.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\workplace\c#\sowrender\UWP\practice_0109\practice_0109\practice_0109.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-10T04:37:55.857</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
